@@ -8,4 +8,4 @@ It is a simple project to learn how to fetch data from an API and display it in 
 - Displays the quote dynamically in the DOM.
 - Simple and lightweight design.
 
-The site is live at: 
+The site is live at: https://gowritharun-songa.github.io/Random-Quotes/
